@@ -1,2 +1,2 @@
 # About-me
-First git repository
+My name is Krishu Kandel, and I am a passionate and goal-driven Computer Science student currently pursuing my degree from the University of Sunderland through its academic partnership with ISMT College in Nepal. This program allows me to access a globally recognized UK education while studying locally. I have a strong interest in software development, problem-solving, and exploring emerging technologies. I am committed to building a strong foundation in both the theoretical and practical aspects of computing, with the goal of becoming a skilled and innovative professional in the tech industry.
